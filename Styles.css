@@ -30,3 +30,8 @@ ul {
     width: auto;
     height: 150px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+}

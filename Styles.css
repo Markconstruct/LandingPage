@@ -13,28 +13,11 @@ ul {
 }
 
 .header {
+    display: flex;
     background-color: rgb(38, 38, 61);
     padding: 16px;
     height: 400px;
-}
-
-.header-top,
-.header-bottom {
-    display: flex;
-    
     color: white;
-}
-
-.header-top {
-    justify-content: space-evenly;
-    
-}
-
-.header-bottom {
-    justify-content: center;
-    align-items: center;
-    gap: 48px;
-    height: 200px;
 }
 
 .image {

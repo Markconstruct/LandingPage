@@ -12,7 +12,8 @@ ul {
     gap: 16px;
 }
 
-.header {
+.header-top,
+.header-bottom {
     display: flex;
     background-color: darkblue;
     color: white;

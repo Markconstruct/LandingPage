@@ -12,16 +12,21 @@ ul {
     gap: 16px;
 }
 
+.header {
+    background-color: rgb(38, 38, 61);
+    padding: 16px;
+}
+
 .header-top,
 .header-bottom {
     display: flex;
-    background-color: rgb(38, 38, 61);
+    
     color: white;
 }
 
 .header-top {
     justify-content: space-evenly;
-    padding: 16px;
+    
 }
 
 .header-bottom {

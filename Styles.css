@@ -27,4 +27,5 @@ ul {
 .header-bottom {
     justify-content: center;
     align-items: center;
+    gap: 48px;
 }

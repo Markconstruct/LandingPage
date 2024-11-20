@@ -15,7 +15,7 @@ ul {
 .header-top,
 .header-bottom {
     display: flex;
-    background-color: darkblue;
+    background-color: rgb(38, 38, 61);
     color: white;
 }
 

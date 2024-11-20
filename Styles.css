@@ -23,3 +23,8 @@ ul {
     justify-content: space-evenly;
     padding: 16px;
 }
+
+.header-bottom {
+    justify-content: center;
+    align-items: center;
+}

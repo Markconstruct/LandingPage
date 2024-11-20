@@ -18,3 +18,8 @@ ul {
     background-color: darkblue;
     color: white;
 }
+
+.header-top {
+    justify-content: space-evenly;
+    padding: 16px;
+}

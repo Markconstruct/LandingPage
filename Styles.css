@@ -35,3 +35,8 @@ ul {
     display: flex;
     flex-direction: column;
 }
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+}

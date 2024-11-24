@@ -11,8 +11,6 @@ ul {
     padding: 0;
     list-style-type: none;
     gap: 18px;
-    font-size: 18px;
-    color: #E5E7EB;
 }
 
 .header {
@@ -61,4 +59,10 @@ button {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+.HeroSecondary,
+ul {
+    font-size: 18px;
+    color: #E5E7EB;
 }

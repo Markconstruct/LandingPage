@@ -11,6 +11,7 @@ ul {
     padding: 0;
     list-style-type: none;
     gap: 16px;
+    font-size: 16px;
 }
 
 .header {
@@ -18,7 +19,6 @@ ul {
     background-color: #1F2937;
     padding: 16px;
     height: 400px;
-    color: white;
     justify-content: center;
     align-items: center;
 }
@@ -39,7 +39,10 @@ ul {
 .logo {
     display: flex;
     justify-content: space-between;
+    color: #F9FAF8;
+    font-size: 24px;
 }
+
 
 .wrapper {
     display: flex;

@@ -53,6 +53,9 @@ img {
 
 button {
     background-color: #3882F6;
+    width: 75px;
+    color: #F9FAF8;
+    font-weight: 700;
 }
 
 .HeroMain {

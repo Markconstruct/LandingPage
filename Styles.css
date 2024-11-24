@@ -5,12 +5,26 @@ body {
     margin: 0;
 }
 
+button {
+    background-color: #3882F6;
+    width: 100px;
+    height: 30px;
+    color: #F9FAF8;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
 ul {
     display: flex;
     margin: 0;
     padding: 0;
     list-style-type: none;
     gap: 18px;
+}
+
+img {
+    width: 400px;
+    height: 200px;
 }
 
 .header {
@@ -20,11 +34,6 @@ ul {
     height: 400px;
     justify-content: center;
     align-items: center;
-}
-
-img {
-    width: 400px;
-    height: 200px;
 }
 
 .container {
@@ -51,15 +60,6 @@ img {
 .wrapper {
     display: flex;
     gap: 48px;
-}
-
-button {
-    background-color: #3882F6;
-    width: 100px;
-    height: 30px;
-    color: #F9FAF8;
-    font-weight: 700;
-    border-radius: 10px;
 }
 
 .HeroMain {

@@ -30,6 +30,11 @@ ul {
     background-color: gray;
 }
 
+img {
+    width: 400px;
+    height: 200px;
+}
+
 .container {
     display: flex;
     flex-direction: column;

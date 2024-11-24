@@ -107,6 +107,8 @@ ul {
 
 .quote {
     background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
 }
 
 .words {

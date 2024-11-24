@@ -110,3 +110,9 @@ ul {
     flex-direction: column;
     background-color: #E5E7EB;
 }
+
+.words {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}

@@ -22,12 +22,7 @@ ul {
     align-items: center;
 }
 
-.image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: gray;
-}
+
 
 img {
     width: 400px;

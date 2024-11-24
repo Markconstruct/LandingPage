@@ -22,8 +22,6 @@ ul {
     align-items: center;
 }
 
-
-
 img {
     width: 400px;
     height: 200px;
@@ -35,6 +33,10 @@ img {
     gap: 16px;
 }
 
+.description {
+    width: 500px;
+}
+
 .logo {
     display: flex;
     justify-content: space-between;
@@ -44,6 +46,7 @@ img {
 
 .wrapper {
     display: flex;
+    gap: 48px;
 }
 
 button {

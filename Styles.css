@@ -30,7 +30,8 @@ img {
 .container {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 75px;
+    height: 400px;
 }
 
 .description {
@@ -54,9 +55,11 @@ img {
 
 button {
     background-color: #3882F6;
-    width: 75px;
+    width: 100px;
+    height: 30px;
     color: #F9FAF8;
     font-weight: 700;
+    border-radius: 10px;
 }
 
 .HeroMain {

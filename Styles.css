@@ -79,6 +79,7 @@ ul {
     flex-direction: column;
     align-items: center;
     padding: 48px;
+    gap: 24px;
 }
 
 .info-header {

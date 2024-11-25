@@ -137,6 +137,7 @@ img.card {
 .action {
     display: flex;
     justify-content: center;
+    padding: 48px;
 }
 
 .action .container {
@@ -145,4 +146,6 @@ img.card {
     align-items: center;
     background-color: #3882F6;
     width: 800px;
+    height: 100px;
+    border-radius: 10px;
 }

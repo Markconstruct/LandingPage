@@ -57,7 +57,7 @@ img {
     font-size: 24px;
 }
 
-.wrapper {
+.header .wrapper {
     display: flex;
     gap: 48px;
 }
@@ -132,4 +132,9 @@ img.card {
 
 .source {
     align-self: flex-end;
+}
+
+.action .container {
+    display: flex;
+    background-color: #3882F6;
 }

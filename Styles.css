@@ -62,13 +62,17 @@ img {
     gap: 48px;
 }
 
-.HeroMain {
-    font-size: 48px;
+.heroMain,
+.actionMain {
     color: #F9FAF8;
     font-weight: 900;
 }
 
-.HeroSecondary,
+.heroMain {
+    font-size: 48px;
+}
+
+.heroSecondary,
 ul {
     font-size: 18px;
     color: #E5E7EB;
@@ -149,4 +153,8 @@ img.card {
     height: 100px;
     border-radius: 10px;
     gap: 100px;
+}
+
+.actionSecondary {
+    color: #E5E7EB;
 }

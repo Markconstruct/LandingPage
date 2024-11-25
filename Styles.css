@@ -14,10 +14,6 @@ button {
     border-radius: 10px;
 }
 
-.action button {
-    border-color: #F9FAF8;
-}
-
 ul {
     display: flex;
     margin: 0;
@@ -167,6 +163,10 @@ img.card {
 .actionSecondary,
 .footer {
     color: #E5E7EB;
+}
+
+.action button {
+    border-color: #F9FAF8;
 }
 
 .footer {

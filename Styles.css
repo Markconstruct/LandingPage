@@ -27,9 +27,13 @@ img {
     height: 200px;
 }
 
+.header,
+.footer {
+    background-color: #1F2937;
+}
+
 .header {
     display: flex;
-    background-color: #1F2937;
     padding: 16px;
     height: 400px;
     justify-content: center;
@@ -155,6 +159,15 @@ img.card {
     gap: 100px;
 }
 
-.actionSecondary {
+.actionSecondary,
+.footer {
     color: #E5E7EB;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    font-size: 12px;
 }
